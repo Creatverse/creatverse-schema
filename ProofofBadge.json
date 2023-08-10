@@ -1,7 +1,8 @@
 {
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/Creatverse/creatverse-schema/main/ProofofBadgeContent.json-ld"
+            "jsonLdContext": "https://raw.githubusercontent.com/Creatverse/creatverse-schema/main/ProofofBadgeContent.json-ld",
+            "jsonSchema": "https://raw.githubusercontent.com/Creatverse/creatverse-schema/main/ProofofBadge.json"
         },
         "type": "ProofofBadge",
         "version": "1.0.0"
