@@ -1,7 +1,7 @@
 {
     "$metadata": {
         "uris": {
-            "jsonLdContext": "ipfs://QmXF5ZZaSwY3uAKdLjFveBZ7Gm9jQYcqiaLjnafcumWgQK"
+            "jsonLdContext": "https://ipfs.io/ipfs/QmXF5ZZaSwY3uAKdLjFveBZ7Gm9jQYcqiaLjnafcumWgQK"
         },
         "type": "ProofofBadge",
         "version": "1.0.0"
