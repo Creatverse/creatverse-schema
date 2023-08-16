@@ -24,7 +24,7 @@
                         "@type": "xsd:string"
                     }
                 },
-                "@id": "urn:uuid:d5d0484d-8bf0-40f3-878b-c95db005884c"
+                "@id": "https://raw.githubusercontent.com/Creatverse/creatverse-schema/dev/CreatverseBadgeContent.json-ld#BadgeOfCreatverse"
             }
         }
     ]
