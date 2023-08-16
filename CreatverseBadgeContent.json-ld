@@ -9,7 +9,7 @@
                 "@context": {
                     "@propagate": true,
                     "@protected": true,
-                    "polygon-vocab": "urn:uuid:0cec5829-8998-4195-9a05-4f35633642a6#",
+                    "polygon-vocab": "https://github.com/Creatverse/creatverse-schema/blob/dev/kyc.md#",
                     "xsd": "http://www.w3.org/2001/XMLSchema#",
                     "since": {
                         "@id": "polygon-vocab:since",
