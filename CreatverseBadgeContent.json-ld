@@ -1,1 +1,31 @@
-{"@context":[{"@protected":true,"@version":1.1,"id":"@id","type":"@type","BadgeOfCreatverse":{"@context":{"@propagate":true,"@protected":true,"polygon-vocab":"urn:uuid:0cec5829-8998-4195-9a05-4f35633642a6#","xsd":"http://www.w3.org/2001/XMLSchema#","since":{"@id":"polygon-vocab:since","@type":"xsd:integer"},"profession":{"@id":"polygon-vocab:profession","@type":"xsd:string"},"name":{"@id":"polygon-vocab:name","@type":"xsd:string"}},"@id":"urn:uuid:d5d0484d-8bf0-40f3-878b-c95db005884c"}}]}
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "BadgeOfCreatverse": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:0cec5829-8998-4195-9a05-4f35633642a6#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "since": {
+                        "@id": "polygon-vocab:since",
+                        "@type": "xsd:integer"
+                    },
+                    "profession": {
+                        "@id": "polygon-vocab:profession",
+                        "@type": "xsd:string"
+                    },
+                    "name": {
+                        "@id": "polygon-vocab:name",
+                        "@type": "xsd:string"
+                    }
+                },
+                "@id": "urn:uuid:d5d0484d-8bf0-40f3-878b-c95db005884c"
+            }
+        }
+    ]
+}
